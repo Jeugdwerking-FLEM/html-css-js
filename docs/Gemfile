@@ -1,7 +1,7 @@
 # Er wordt gebruik gemaakt van Jekyll & Just The Docs
 remote_theme: pmarsceill/just-the-docs
 
-title: Introductie Arduino
+title: Introductie HTML, CSS & JavaScript
 color_scheme: dark
 search_enabled: true
 footer_content: "Jeugdwerking FabLab Erpe-Mere - 2021"
